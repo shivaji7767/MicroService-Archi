@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "ProductService\ProductService.csproj", "{03349170-AAD7-4C0B-B353-46D7C2AE7BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateWay", "APIGateWay\APIGateWay.csproj", "{CF49578A-52BF-4054-A16E-3CF205EE8136}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03349170-AAD7-4C0B-B353-46D7C2AE7BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03349170-AAD7-4C0B-B353-46D7C2AE7BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03349170-AAD7-4C0B-B353-46D7C2AE7BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03349170-AAD7-4C0B-B353-46D7C2AE7BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF49578A-52BF-4054-A16E-3CF205EE8136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF49578A-52BF-4054-A16E-3CF205EE8136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF49578A-52BF-4054-A16E-3CF205EE8136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF49578A-52BF-4054-A16E-3CF205EE8136}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
